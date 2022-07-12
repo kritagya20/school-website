@@ -1,0 +1,320 @@
+PAGES - HOME
+	ABOUT
+	COURSES
+	CONTACT
+
+SECTION - HEADER
+	  FOOTER
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+PAGE-01-HOME
+
+
+Grow Your Skills to advance your career path
+
+"Dreams are not those you get when you sleep, but dreams are those that don't let you sleep." Our humble endeavour has been to encourage and prepare our students, in every way to face the difficult challenges of today, boldly and whole heartedly. 
+
+
+
+----------------------------------
+
+
+
+Categories
+
+Learn about a few of the world's most cutting-edge technology. It's time to improve your abilities by acquiring the most important market skills. Use our classes and mock series to put your skills to the test. We make certain that the content is of high quality. Our instructors have real-world experience to assist you in achieving your objectives. 
+
+Web Development
+Become a part of one of the most profitable and rapidly expanding career paths. 
+
+Data Science
+Leading Industry Experts Recommend a Structured Learning Path to Ensure Mastery.
+
+Machine Learning
+Master your language with lessons, quizzes, and projects designed for real-life scenarios.
+
+Artificial Intelligence
+Create portfolio projects that showcase your new skills to help land your dream job.
+
+Devops
+Expertise certification training course via a comprehensive curriculum covering the concepts of DevOps.
+
+Cyber Security
+Learn cybersecurity skills to advance your education and career with our tutors.
+
+
+
+----------------------------------
+
+
+
+
+Our Popular Courses
+
+Digital Marketing: The Ultimate Guide to Strategic Marketing
+Master Digital Marketing: Instagram, Optimization, Social Media, Analytics, SEO, PPC, Email, WebCopy, UX, Content Mkt 
+
+
+Ethereum Blockchain Developer Bootcamp
+Become An Ethereum Blockchain Developer With One Course. Master Solidity, Web3.JS, Truffle, Metamask, Remix & More! 
+
+
+Learn Ethical Hacking From Scratch
+Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts. 
+
+
+
+----------------------------------
+
+
+
+Frequently Asked Questions
+
+
+
+How do I know the right course for me?
+To clear up any ambiguity, two-week demo courses are offered, during which you will be briefed on the course and will be able to make an informed decision on which course to attend. 
+
+
+
+Are Online Courses available for me?
+Yes, the organisation offers a variety of online classes for students who are unable to attend in person.
+
+
+
+Do financial is provided by the organisation?
+Yes, if a student meets the criterion for receiving financial aid, he or she will receive financial aid.
+
+
+
+Conditions to get access to financial aid.?
+To apply for financial help, students must come to our campus. Financial help is only given after a thorough examination of the student's legal documentation and bank statements.
+
+
+
+Do I get benifitted if a refer the course to my friends?
+Unfortunately, the organisation does not have such resources.
+
+
+
+Is the fees refundable?
+If a student believes he was enrolled in the wrong course, he can claim for a refund within a month of purchasing the course.
+
+
+
+Are certificates provided by the organisation?
+Yes Every student who completes the bootcamp successfully is provided a certificate.
+
+
+
+Conditions for accessing my certificate?
+To receive their certifications, students must follow the learning routes, be present in at least 50% of the lectures, and complete assignments on time.
+
+
+
+Can I enroll into multiple courses at once?
+Students are able to enroll in as many courses as they desire, but they must complete all tests and assignments by the deadlines.
+
+
+
+Does resources are also provided with the course?
+Yes, the tutor provides all necessary resources, as well as a few complementary additional libraries and connections for pupils to expand their knowledge.
+
+
+
+----------------------------------
+
+Students Testimonial
+
+
+
+Joyal George
+I absolutely loved this course! I would strongly recommend this course to anyone & everyone arond the globe! I really learned a lot!
+
+
+Dhruv Sharma
+I loved the feedback my teacher gave me on my assignments. it helped me understand what I did good and what I didn’t do that should have been done.
+
+
+Yash Gurudekar
+When there aren't any teachers standing beside you to teach you the subject makes you to pay more attention to each subject and to learn more. This is what I like about this school.
+
+
+Parag Edalwar
+I was able to go through at my pace. At times I was able to fly through a section, and other times I could take as much needed time to digest certain material in the sections.
+
+
+Anu Angel Toppo
+The warm, nurturing and academic environment has transformed me into an avid and successful learner. The school has exceeded my expectations in developing my personality and skills.
+
+
+Ashwin Nair
+Brilliant school. Made a lot of progress within a year itself, very supportive, kind, skilled and cordial staff and teachers.
+
+
+Anurag Chourasiya
+Learning interesting new facts about topics that I just briefly touched on in public school were my most favorite experiences at this school and i loved it.
+
+
+Antest Pandey
+This course was very educational and progressive for me. I really enjoyed this class and strongly agree to recommend this course to others.
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+PAGE-02-ABOUT
+
+Achievements
+More than 450 courses have been successfully established and developed, and more than 83,000 thousand students have been educated to date. Students are positioned in major market giants around the world via hard work and constant effort. 
+450+	Courses
+83,500+	Students
+37	Awards
+
+
+
+----------------------------------
+
+Meet Our Team
+
+
+Meet Our Team
+Emma Peterson	Senior Developer
+Steve Rogers	Expert Tutor
+Kritika Chouhan	Graphic Designer
+Alena Potter	Data Scientist
+Prashan Verma	Marketing Head
+Erika George	Backend Expert
+Abhishek Sharma	Research Manager
+Andrew Malfoy	Quality Tester
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+PAGE-03-COURSES
+
+Our Popular Courses
+
+
+
+Digital Marketing: The Ultimate Guide to Strategic Marketing
+Master Digital Marketing: Instagram, Optimization, Social Media, Analytics, SEO, PPC, Email, WebCopy, UX, Content Mkt
+
+Ethereum Blockchain Developer Bootcamp
+Become An Ethereum Blockchain Developer With One Course. Master Solidity, Web3.JS, Truffle, Metamask, Remix & More!
+
+Learn Ethical Hacking From Scratch
+Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
+
+Complete Blender Creator: Learn 3D Modelling for Beginners
+Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course
+
+Ultimate AWS Certified Solutions Architect Associate
+Full Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C02!
+
+Complete Salesforce Administrator Certification Course
+Aligns with Latest Salesforce Exam - 90 Question Salesforce Practice Test Included!
+
+Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron & Delta
+PLC Programming of Allen Bradley, Delta, Siemens, Omron & Schneider using LIVE Examples with HMI Interfacing
+
+Advanced Hardware and PCB Design Masterclass 2022 -EsteemPCB
+Advanced Hardware Design Course Part-1 RK3399 COB (LPDDR4 SDRAM, WIFI/BT, EMMC, PMIC, 260 Pin DDR4 System on Module)
+
+Mastering Microcontroller and Embedded Driver Development
+(MCU1) Learn bare metal driver development using Embedded C: Writing drivers for STM32 GPIO,I2C,SPI,USART from scratch
+
+Deep Learning A-Z™: Hands-On Artificial Neural Networks
+Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included.
+
+Machine Learning A-Z: Hands-On Python & R In Data Science
+Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.
+
+GitHub Ultimate: Master Git and GitHub
+Go from complete novice to expert in Git and GitHub using step-by-step, no-assumptions learning
+
+Database Management System (DBMS) & SQL
+Database Engineering (RDBMS) : ER model, FD's,Normalization,SQL,ACID,Transactions & Concurrency Control, Indexing & more.
+
+REST API Design, Development & Management
+Learn the REST API Concepts, Design best practices, Security practices, Swagger 2.0/OAI, Hands on API Management
+
+The Complete Software Testing Bootcamp
+Everything you need to learn about software testing. Test case | Bug Report Writing | Black-Box Test Techniques & many more.
+
+Learn Database Design with MySQL
+A Complete Course to Master Database Design using MySQL. Database Normalization | PHP with MySQL | Master SQL.
+
+Excel Deep Dive: Pivot Tables Workshop
+Excel data mastery is possible! Learn how to use pivot tables in excel and learn how to use pivot tables to get a raise
+
+The Web Developer Bootcamp
+COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!
+
+Angular & NodeJS - The MEAN Stack Course
+Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application
+
+The Science of Leadership
+Leadership, management techniques and communication skills based on research from neuroscience to social psychology
+
+The Complete Cyber Security Course : Network Security!
+Network Security, WiFi Security, WiFi Hackers, Firewalls, Wireshark, Secure Networking. + Password Managers
+
+Beginners Manual on Ethereum Crypto-currency & its Trading
+Learn Basic to Advance details of Ethereum, along with Ethereum Price Forecast & How will Ethereum dethrone Bitcoin!
+
+Graphic Design Masterclass - Learn GREAT Design
+The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design
+
+SEO Training: Get Free Traffic to Your Website With SEO
+SEO Training to Rank #1 in Google. SEO Audit, Keyword Research, On Page SEO, Link Building, WordPress SEO & More
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+PAGE-04-CONTACT
+
+
+Contact Us
+
+Developed this complete website from scratch. Lets build fascinating, responsive, fast and secure websites. Open to work. Can't wait to help out people in achieving their targets via building perfect websites for them. Looking forward to collabrate with other brilliant developing minds.
+~Kritagya Singh Chouhan
+
+    +91 7987322906
+    kritagya2022@gmail.com
+    Indore, India
+
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+HEADER
+
+	SCHOOL
+   	Home
+   	About
+   	Courses
+   	Contact
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+FOOTER
+
+SCHOOL
+Lets build fascinating, responsive, fast and secure websites.
+
+
+Links
+    Home
+    About
+    Courses
+    Contact
+
+
+Primacy
+    Privacy Policy
+    Terms and conditions
+    Refund Policy
+
+
+Contact Us
++91 7987322906
+kritagya2022@gmail.com
+Developed and Designed by Kritagya Singh Chouhan
+
